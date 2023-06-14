@@ -1,0 +1,15 @@
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\obj\Debug\net6.0\DZ_C-1.csproj.AssemblyReference.cache
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\obj\Debug\net6.0\DZ_C-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\obj\Debug\net6.0\DZ_C-1.AssemblyInfoInputs.cache
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\obj\Debug\net6.0\DZ_C-1.AssemblyInfo.cs
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\obj\Debug\net6.0\DZ_C-1.csproj.CoreCompileInputs.cache
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\bin\Debug\net6.0\DZ_C-1.exe
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\bin\Debug\net6.0\DZ_C-1.deps.json
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\bin\Debug\net6.0\DZ_C-1.runtimeconfig.json
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\bin\Debug\net6.0\DZ_C-1.dll
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\bin\Debug\net6.0\DZ_C-1.pdb
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\obj\Debug\net6.0\DZ_C-1.dll
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\obj\Debug\net6.0\refint\DZ_C-1.dll
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\obj\Debug\net6.0\DZ_C-1.pdb
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\obj\Debug\net6.0\DZ_C-1.genruntimeconfig.cache
+C:\Users\dimas\OneDrive\Рабочий стол\Урок1 С#\seminar1\Домашнее Задание 1\DZ_C-1\obj\Debug\net6.0\ref\DZ_C-1.dll
